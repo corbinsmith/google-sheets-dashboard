@@ -1,0 +1,8 @@
+google-sheets-dashboard/
+├── .env                # Environment variables (do not push this to GitHub)
+├── .gitignore          # To exclude node_modules and .env
+├── package.json        # Lists dependencies
+├── package-lock.json   # Auto-generated
+├── server.js           # Main backend file
+└── credentials/
+    └── service-account.json  # Google Service Account file
